@@ -8,7 +8,7 @@
 
 ## 2. 시연
 
-<video src="videos/demo.mp4" controls muted width="100%"></video>
+[![Beacon Demo](https://i.ytimg.com/vi/n3LEvBJPu5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3LEvBJPu5Y)
 
 ![답 화면](images/agent-answer.png)
 

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" font-family="'Pretendard', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<defs>
+<marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/></marker>
+<marker id="head-start" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="30" y="24" width="18" height="18" rx="4" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<text x="56" y="38" font-size="14" font-weight="500" text-anchor="start" fill="#1f2937">이번에 추가한 테이블</text>
+<rect x="233" y="24" width="18" height="18" rx="4" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="259" y="38" font-size="14" font-weight="500" text-anchor="start" fill="#1f2937">원래 있던 테이블 (읽기만)</text>
+<rect x="30" y="80" width="300" height="200" rx="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<path d="M30,120 L330,120" stroke="#a8a29e" stroke-width="1.2"/>
+<text x="44" y="106" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">external_event</text>
+<text x="318" y="106" font-size="12" font-weight="500" text-anchor="end" fill="#5b6472">이벤트</text>
+<text x="44" y="144" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">id</text>
+<text x="318" y="144" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">번호</text>
+<text x="44" y="168" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">source_name</text>
+<text x="318" y="168" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">출처 이름</text>
+<text x="44" y="192" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">title · content</text>
+<text x="318" y="192" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">제목 · 본문</text>
+<text x="44" y="216" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">severity · region</text>
+<text x="318" y="216" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">심각도 · 리전</text>
+<text x="44" y="240" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">occurred_at</text>
+<text x="318" y="240" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">일어난 시각</text>
+<text x="44" y="264" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">received_at</text>
+<text x="318" y="264" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">받은 시각</text>
+<rect x="420" y="80" width="260" height="152" rx="10" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<path d="M420,120 L680,120" stroke="#e08a00" stroke-width="1.2"/>
+<text x="434" y="106" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">agent_conversation</text>
+<text x="668" y="106" font-size="12" font-weight="500" text-anchor="end" fill="#5b6472">대화</text>
+<text x="434" y="144" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">id</text>
+<text x="668" y="144" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">번호</text>
+<text x="434" y="168" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">user_id</text>
+<text x="668" y="168" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">누구의 대화</text>
+<text x="434" y="192" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">title</text>
+<text x="668" y="192" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">첫 질문 60자</text>
+<text x="434" y="216" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">updated_at</text>
+<text x="668" y="216" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">마지막 메시지</text>
+<rect x="720" y="80" width="280" height="176" rx="10" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<path d="M720,120 L1000,120" stroke="#e08a00" stroke-width="1.2"/>
+<text x="734" y="106" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">agent_message</text>
+<text x="988" y="106" font-size="12" font-weight="500" text-anchor="end" fill="#5b6472">메시지</text>
+<text x="734" y="144" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">conversation_id</text>
+<text x="988" y="144" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">어느 대화</text>
+<text x="734" y="168" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">role</text>
+<text x="988" y="168" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">질문 / 답</text>
+<text x="734" y="192" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">status</text>
+<text x="988" y="192" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">진행 · 완료 · 실패</text>
+<text x="734" y="216" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">text</text>
+<text x="988" y="216" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">질문 글</text>
+<text x="734" y="240" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">answer</text>
+<text x="988" y="240" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">답 JSON (근거 번호 포함)</text>
+<rect x="1040" y="80" width="330" height="176" rx="10" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<path d="M1040,120 L1370,120" stroke="#e08a00" stroke-width="1.2"/>
+<text x="1054" y="106" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">agent_tool_call</text>
+<text x="1358" y="106" font-size="12" font-weight="500" text-anchor="end" fill="#5b6472">도구 호출</text>
+<text x="1054" y="144" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">message_id</text>
+<text x="1358" y="144" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">어느 답</text>
+<text x="1054" y="168" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">tool</text>
+<text x="1358" y="168" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">도구 이름</text>
+<text x="1054" y="192" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">arguments</text>
+<text x="1358" y="192" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">AI가 보낸 조건</text>
+<text x="1054" y="216" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">range_from · range_to</text>
+<text x="1358" y="216" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">실제로 찾은 기간</text>
+<text x="1054" y="240" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">row_count · ok</text>
+<text x="1358" y="240" font-size="12" font-weight="400" text-anchor="end" fill="#5b6472">건수 · 성공</text>
+<path d="M680,130 L716,130" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<text x="700" y="152" font-size="12.5" font-weight="700" text-anchor="start" fill="#e08a00">1 : N</text>
+<path d="M1000,130 L1036,130" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<text x="1008" y="152" font-size="12.5" font-weight="700" text-anchor="start" fill="#e08a00">1 : N</text>
+<path d="M860,256 C860,340 400,340 334,250" fill="none" stroke="#4b5563" stroke-width="1.8" stroke-dasharray="5 5" marker-end="url(#head)"/>
+<text x="600" y="352" font-size="13" font-weight="600" text-anchor="middle" fill="#5b6472">답 카드의 근거 번호 → 이벤트</text>
+<rect x="1040" y="330" width="330" height="150" rx="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<path d="M1040,370 L1370,370" stroke="#a8a29e" stroke-width="1.2"/>
+<text x="1054" y="356" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">audit_log</text>
+<text x="1358" y="356" font-size="12" font-weight="500" text-anchor="end" fill="#5b6472">감사 로그</text>
+<text x="1054" y="396" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">action = AGENT_TOOL_CALLED (이번부터 기록)</text>
+<text x="1054" y="420" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">누가 · 언제 · 어떤 역할로</text>
+<text x="1054" y="444" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">details: 질문 · 도구 · 조건 · 건수 · 성공</text>
+<path d="M1205,262 L1205,326" fill="none" stroke="#4b5563" stroke-width="1.8" stroke-dasharray="5 5" marker-end="url(#head)"/>
+<text x="1215" y="300" font-size="12.5" font-weight="600" text-anchor="start" fill="#5b6472">도구를 부를 때마다 한 줄</text>
+<rect x="30" y="400" width="960" height="120" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="50" y="430" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">얼마나 남기나</text>
+<text x="50" y="458" font-size="13.5" font-weight="400" text-anchor="start" fill="#5b6472">대화 · 메시지 · 도구 호출: 마지막 메시지 30일 뒤 자동 삭제 (6시간마다 정리), 본인이 바로 지울 수도 있다</text>
+<text x="50" y="484" font-size="13.5" font-weight="400" text-anchor="start" fill="#5b6472">감사 로그: 지우지 않는다    ·    이벤트: 에이전트는 읽기만 하고 고치지 않는다</text>
+</svg>

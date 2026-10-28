@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" font-family="'Pretendard', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<defs>
+<marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/></marker>
+<marker id="head-start" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="20" y="20" width="670" height="580" rx="14" fill="#fafafa" stroke="#9ca3af" stroke-width="1.6"/>
+<text x="44" y="56" font-size="19" font-weight="700" text-anchor="start" fill="#1f2937">A. 이미 있는 AI 앱 + MCP</text>
+<text x="44" y="80" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">Beacon은 도구만 내놓고, 판단과 답은 각자의 AI 앱이 한다</text>
+<rect x="60" y="120" width="140" height="60" rx="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="130.0" y="146.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">사람</text>
+<text x="130.0" y="167.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">팀원 한 명</text>
+<rect x="260" y="112" width="220" height="76" rx="10" fill="#f1ecff" stroke="#7c5cd6" stroke-width="1.6"/>
+<text x="370.0" y="146.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">각자의 AI 앱</text>
+<text x="370.0" y="167.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">Claude · ChatGPT · Cursor</text>
+<rect x="260" y="260" width="220" height="76" rx="10" fill="#e8f1ff" stroke="#3b6fd8" stroke-width="1.6"/>
+<text x="370.0" y="294.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">Beacon MCP 서버</text>
+<text x="370.0" y="315.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">이벤트 찾기 · 출처 확인</text>
+<path d="M290.0,410 L290.0,466 A80.0,10 0 0 0 450.0,466 L450.0,410" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<ellipse cx="370" cy="410" rx="80.0" ry="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="370" y="446.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">이벤트</text>
+<path d="M200,150 L256,150" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M370,188 L370,256" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<text x="380" y="228" font-size="13" font-weight="700" text-anchor="start" fill="#3b6fd8">MCP</text>
+<path d="M370,336 L370,396" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<text x="510" y="140" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">모델·키·설정을</text>
+<text x="510" y="160" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">사람마다 따로</text>
+<text x="510" y="290" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">도구 결과만 돌려줌</text>
+<text x="510" y="310" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">질문은 모름</text>
+<rect x="44" y="500" width="622" height="80" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="62" y="530" font-size="13.5" font-weight="400" text-anchor="start" fill="#1f2937">읽기 질문에는 이것만으로도 꽤 비슷한 답이 나온다</text>
+<text x="62" y="556" font-size="13.5" font-weight="400" text-anchor="start" fill="#1f2937">답 검사 · 권한 · 기록은 AI 앱마다 다르고, Beacon이 보장할 수 없다</text>
+<rect x="710" y="20" width="670" height="580" rx="14" fill="#fffaf2" stroke="#e08a00" stroke-width="1.6"/>
+<text x="734" y="56" font-size="19" font-weight="700" text-anchor="start" fill="#1f2937">B. 지금 만든 Beacon 내장 에이전트</text>
+<text x="734" y="80" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">판단은 AI가, 실행 · 검사 · 기록은 Beacon 서버가 한다</text>
+<rect x="750" y="120" width="140" height="60" rx="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="820.0" y="146.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">사람</text>
+<text x="820.0" y="167.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">로그인한 팀원</text>
+<rect x="950" y="120" width="220" height="60" rx="10" fill="#e8f1ff" stroke="#3b6fd8" stroke-width="1.6"/>
+<text x="1060.0" y="146.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">Beacon 화면</text>
+<text x="1060.0" y="167.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">대시보드 안의 대화</text>
+<rect x="940" y="240" width="240" height="150" rx="12" fill="#e8f1ff" stroke="#3b6fd8" stroke-width="1.6"/>
+<text x="1060" y="270" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">Beacon 에이전트 (서버)</text>
+<text x="960" y="300" font-size="12.5" font-weight="400" text-anchor="start" fill="#1f2937">역할로 도구 거르기</text>
+<text x="960" y="322" font-size="12.5" font-weight="400" text-anchor="start" fill="#1f2937">근거 번호 검사 · 시각 계산</text>
+<text x="960" y="344" font-size="12.5" font-weight="400" text-anchor="start" fill="#1f2937">질문까지 감사 로그</text>
+<text x="960" y="366" font-size="12.5" font-weight="400" text-anchor="start" fill="#1f2937">1분 10번 · 대화 30일</text>
+<rect x="1236" y="270" width="124" height="90" rx="10" fill="#f1ecff" stroke="#7c5cd6" stroke-width="1.6"/>
+<text x="1298.0" y="311.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">AI 모델</text>
+<text x="1298.0" y="332.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">판단만</text>
+<path d="M980.0,440 L980.0,480 A80.0,10 0 0 0 1140.0,480 L1140.0,440" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<ellipse cx="1060" cy="440" rx="80.0" ry="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="1060" y="468.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">이벤트</text>
+<path d="M890,150 L946,150" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M1060,180 L1060,236" fill="none" stroke="#4b5563" stroke-width="1.8" marker-start="url(#head-start)" marker-end="url(#head)"/>
+<path d="M1184,315 L1232,315" fill="none" stroke="#4b5563" stroke-width="1.8" stroke-dasharray="5 5" marker-start="url(#head-start)" marker-end="url(#head)"/>
+<path d="M1060,390 L1060,426" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<rect x="734" y="510" width="622" height="70" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="752" y="538" font-size="13.5" font-weight="400" text-anchor="start" fill="#1f2937">설치 없이 팀 전체가 같은 규칙으로 쓴다</text>
+<text x="752" y="562" font-size="13.5" font-weight="400" text-anchor="start" fill="#1f2937">다만 &quot;읽기&quot;만 놓고 보면 A와 차이가 크지 않다 → 고민 중</text>
+</svg>

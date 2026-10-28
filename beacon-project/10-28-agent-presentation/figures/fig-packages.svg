@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="960" viewBox="0 0 1400 960" font-family="'Pretendard', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<defs>
+<marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/></marker>
+<marker id="head-start" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="30" y="24" width="18" height="18" rx="4" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<text x="56" y="38" font-size="14" font-weight="500" text-anchor="start" fill="#1f2937">이번에 추가</text>
+<rect x="168" y="24" width="18" height="18" rx="4" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="194" y="38" font-size="14" font-weight="500" text-anchor="start" fill="#1f2937">원래 있던 것</text>
+<rect x="30" y="70" width="420" height="800" rx="14" fill="#fafafa" stroke="#9ca3af" stroke-width="1.6"/>
+<text x="50" y="102" font-size="18" font-weight="700" text-anchor="start" fill="#1f2937">화면 · beacon-frontend</text>
+<text x="50" y="124" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">React · TypeScript · Vite   src/</text>
+<rect x="46" y="140" width="388" height="400" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="62" y="168" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">pages/  메뉴마다 폴더 하나</text>
+<rect x="62" y="184" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="74" y="203" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">home-page</text>
+<text x="74" y="220" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">홈 요약</text>
+<rect x="244" y="184" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="256" y="203" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">login-page</text>
+<text x="256" y="220" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">로그인</text>
+<rect x="62" y="236" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="74" y="255" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">events/</text>
+<text x="74" y="272" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">이벤트 목록</text>
+<rect x="244" y="236" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="256" y="255" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">feeds/</text>
+<text x="256" y="272" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">피드</text>
+<rect x="62" y="288" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="74" y="307" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">webhooks/</text>
+<text x="74" y="324" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">웹훅·필드 매핑</text>
+<rect x="244" y="288" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="256" y="307" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">adapters/</text>
+<text x="256" y="324" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">원천 연결</text>
+<rect x="62" y="340" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="74" y="359" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">users/</text>
+<text x="74" y="376" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">사용자·역할</text>
+<rect x="244" y="340" width="170" height="44" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="256" y="359" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">audit/</text>
+<text x="256" y="376" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">감사 로그</text>
+<rect x="62" y="398" width="356" height="128" rx="8" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<text x="76" y="422" font-size="14" font-weight="700" text-anchor="start" fill="#1f2937">agent/  에이전트 화면</text>
+<text x="76" y="446" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">agent-page.tsx  대화 화면 · 입력 · 대화 목록</text>
+<text x="76" y="466" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">agent-answer.tsx  진행 줄 · 한 줄 답 · 카드</text>
+<text x="76" y="486" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">agent-evidence.tsx  근거 보기</text>
+<text x="76" y="506" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">agent-turns.ts  진행 소식을 화면 상태로</text>
+<rect x="46" y="556" width="388" height="76" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="62" y="584" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">components/  공통 부품</text>
+<text x="62" y="608" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">앱 틀 · 사이드바 · ui/ (버튼·대화상자 등 20개)</text>
+<rect x="46" y="648" width="388" height="150" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="62" y="676" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">lib/  서버와 연결</text>
+<rect x="62" y="690" width="356" height="40" rx="8" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<text x="76" y="715" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">api.ts  모든 API 호출 + 에이전트 SSE 읽기</text>
+<rect x="62" y="738" width="356" height="40" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="76" y="763" font-size="12.5" font-weight="600" text-anchor="start" fill="#1f2937">event-stream.ts  실시간 새 이벤트 (WebSocket)</text>
+<rect x="46" y="812" width="388" height="44" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="62" y="840" font-size="14" font-weight="700" text-anchor="start" fill="#1f2937">locales/  ko · en 화면 문자열</text>
+<rect x="560" y="70" width="810" height="690" rx="14" fill="#fafafa" stroke="#9ca3af" stroke-width="1.6"/>
+<text x="580" y="102" font-size="18" font-weight="700" text-anchor="start" fill="#1f2937">서버 · beacon-backend</text>
+<text x="580" y="124" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">Kotlin · Ktor · SQLite(Exposed)   me.prdis.beacon</text>
+<rect x="1134" y="86" width="216" height="40" rx="8" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="1148" y="111" font-size="13" font-weight="600" text-anchor="start" fill="#1f2937">Application.kt  시작 · 연결</text>
+<rect x="576" y="140" width="580" height="140" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="592" y="168" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">routes/  주소 (요청 받기)</text>
+<text x="592" y="194" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">api/</text>
+<text x="732" y="194" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">화면이 부르는 REST. AgentRoute 추가 (질문 → SSE)</text>
+<text x="592" y="216" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">auth/</text>
+<text x="732" y="216" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">OIDC 로그인 · 역할 검사 · 토큰</text>
+<text x="592" y="238" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">WebhookSlugRoute</text>
+<text x="732" y="238" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">외부 웹훅 받기</text>
+<text x="592" y="260" font-size="13" font-weight="700" text-anchor="start" fill="#1f2937">EventSocketRoute</text>
+<text x="732" y="260" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">실시간 새 이벤트 (WebSocket)</text>
+<rect x="1172" y="140" width="182" height="140" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="1188" y="168" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">responses/</text>
+<text x="1188" y="194" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">응답 봉투 · 에러 코드</text>
+<text x="1188" y="216" font-size="13" font-weight="400" text-anchor="start" fill="#5b6472">AgentResponse 추가</text>
+<text x="580" y="312" font-size="14" font-weight="700" text-anchor="start" fill="#5b6472">기능 묶음 (일하는 코드)</text>
+<rect x="576" y="324" width="300" height="262" rx="10" fill="#fff3df" stroke="#e08a00" stroke-width="1.6"/>
+<text x="592" y="352" font-size="16" font-weight="700" text-anchor="start" fill="#1f2937">agent/  에이전트</text>
+<text x="592" y="380" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">AgentService  처리 순서 (가르기→찾기→답)</text>
+<text x="592" y="402" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">AgentTools  도구 2개 · 역할 거르기</text>
+<text x="592" y="424" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">AgentPrompts  AI 지시문</text>
+<text x="592" y="446" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">AgentAnswer  답 모양 · 근거 검사</text>
+<text x="592" y="468" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">Conversation  대화 · 메시지</text>
+<rect x="590" y="496" width="272" height="76" rx="8" fill="#fff8ec" stroke="#e08a00" stroke-width="1.6"/>
+<text x="604" y="518" font-size="13.5" font-weight="700" text-anchor="start" fill="#1f2937">llm/  AI 연결 부품</text>
+<text x="604" y="540" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">LlmClient (공통 모양) ← OpenAI · Claude</text>
+<text x="604" y="559" font-size="12" font-weight="400" text-anchor="start" fill="#5b6472">Fallback: 실패하면 두 번째 모델</text>
+<rect x="892" y="324" width="146" height="126" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="906" y="352" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">webhook/</text>
+<text x="906" y="380" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">웹훅 받기 · HMAC</text>
+<text x="906" y="401" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">필드 매핑 · EventHub</text>
+<rect x="1048" y="324" width="146" height="126" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="1062" y="352" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">feed/</text>
+<text x="1062" y="380" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">Atom/RSS 주기 수집</text>
+<text x="1062" y="401" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">본문 정리 (jsoup)</text>
+<rect x="1204" y="324" width="146" height="126" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="1218" y="352" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">adapter/</text>
+<text x="1218" y="380" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">원천 연결 목록</text>
+<text x="1218" y="401" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">켜기 · 알림 설정</text>
+<rect x="892" y="458" width="146" height="126" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="906" y="486" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">user/</text>
+<text x="906" y="514" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">사용자 · 역할</text>
+<text x="906" y="535" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">로그인 방식</text>
+<rect x="1048" y="458" width="146" height="126" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="1062" y="486" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">audit/</text>
+<text x="1062" y="514" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">감사 로그 기록</text>
+<text x="1062" y="535" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">에이전트 호출도 기록</text>
+<rect x="1204" y="458" width="146" height="126" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="1218" y="486" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">summary/</text>
+<text x="1218" y="514" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">홈 화면 요약</text>
+<text x="1218" y="535" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">24시간 이벤트 수</text>
+<rect x="896" y="610" width="458" height="134" rx="10" fill="#ffffff" stroke="#c9ccd1" stroke-width="1.6"/>
+<text x="912" y="638" font-size="15" font-weight="700" text-anchor="start" fill="#1f2937">config/  바탕</text>
+<text x="912" y="664" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">Database.kt  모든 테이블과 조회 (에이전트 테이블 3개 추가)</text>
+<text x="912" y="686" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">BeaconConfig  환경변수 (AI 회사 · 모델 · 키)</text>
+<text x="912" y="708" font-size="12.5" font-weight="400" text-anchor="start" fill="#5b6472">Time  시간대 Asia/Seoul 고정</text>
+<path d="M726,280 L726,320" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M1030,280 L1030,320" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M1125,586 L1125,606" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M850,586 L850,677 L892,677" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M1050.0,800 L1050.0,860 A75.0,10 0 0 0 1200.0,860 L1200.0,800" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<ellipse cx="1125" cy="800" rx="75.0" ry="10" fill="#f4f4f3" stroke="#a8a29e" stroke-width="1.6"/>
+<text x="1125" y="832.0" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">SQLite</text>
+<text x="1125" y="852.0" font-size="12" font-weight="400" text-anchor="middle" fill="#5b6472">파일 하나</text>
+<path d="M1125,744 L1125,786" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<rect x="576" y="800" width="280" height="64" rx="10" fill="#f1ecff" stroke="#7c5cd6" stroke-width="1.6"/>
+<text x="716" y="828" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2937">AI 회사</text>
+<text x="716" y="850" font-size="12.5" font-weight="400" text-anchor="middle" fill="#5b6472">OpenAI (지금) · Anthropic</text>
+<path d="M726,572 L726,796" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M418,710 L500,710 L500,215 L576,215" fill="none" stroke="#4b5563" stroke-width="1.8" marker-end="url(#head)"/>
+<path d="M418,758 L524,758 L524,250 L576,250" fill="none" stroke="#4b5563" stroke-width="1.8" stroke-dasharray="5 5" marker-end="url(#head)"/>
+<text x="492" y="440" transform="rotate(-90 492 440)" font-size="12.5" font-weight="700" text-anchor="middle" fill="#3b6fd8">HTTP · SSE</text>
+<text x="516" y="560" transform="rotate(-90 516 560)" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6472">WebSocket</text>
+</svg>

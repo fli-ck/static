@@ -12,7 +12,7 @@
 
 ![답 화면](images/agent-answer.png)
 
-*답 화면. 한 줄 답, 출처별 카드(점 색이 상태), 에이전트가 정한 가정, 추천 질문, "근거 보기".*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a859a35-7b3e-4b2e-8fd7-b3b41bca8462" />
 
 ## 3. 이번에 만든 것
 
